@@ -8,13 +8,14 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorOliveiraPy&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOLiveiraPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 💼 Trabalho com
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorOliveiraPy&repo=github-readme-stats)](https://github.com/VictorOliveiraPy/ts-app-1806)
 
 
 
