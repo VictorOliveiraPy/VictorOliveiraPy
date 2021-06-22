@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorOliveiraPy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorOliveiraPy&repo=github-readme-stats)](https://github.com/VictorOliveiraPy/ts-app-1806)
 
 
 
