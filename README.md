@@ -8,9 +8,7 @@
 
 
 <p align="left">
-align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VictorOliveiraPy_icons=true" alt="VictorHugo"/> 
-</p>
+
 
 
 <a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" /></a>
