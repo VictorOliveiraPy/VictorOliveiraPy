@@ -6,10 +6,8 @@
 
 - 📫 How to reach me **oliveiravictordev@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VictorOliveiraPy_icons=true" alt="VictorHugo"/> 
 </p>
