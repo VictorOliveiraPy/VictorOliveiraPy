@@ -6,8 +6,13 @@
 
 - 📫 How to reach me **oliveiravictordev@gmail.com**
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
-<p align="left">
+
+### 💼 Trabalho com
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 
 
