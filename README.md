@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **oliveiravictordev@gmail.com**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorOliveiraPy&show_icons=true&theme=dracula)
 
 
 ### 💼 Trabalho com
