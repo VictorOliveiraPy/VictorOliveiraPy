@@ -7,9 +7,6 @@
 - 📫 How to reach me **oliveiravictordev@gmail.com**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOLiveiraPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VictorOliveiraPy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorOliveiraPy&show_icons=true&theme=onedark)
@@ -17,10 +14,12 @@
 
 
 
+<p>
 
 
+<a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" />Linkedin</a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOLiveiraPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" /></a>
 
 </p>
 
