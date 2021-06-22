@@ -14,6 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorOliveiraPy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" /></a>
