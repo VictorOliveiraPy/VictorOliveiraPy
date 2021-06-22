@@ -5,6 +5,7 @@
 - 💬 Ask me about **Python, DJango, DRF**
 
 - 📫 How to reach me **oliveiravictordev@gmail.com**
+- <a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" /></a>
 
 
 
@@ -16,10 +17,7 @@
 
 <p>
 
-
-<a href="https://www.linkedin.com/in/victor-hugo-3548a915a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorHugo" height="20" width="20" />Linkedin</a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOLiveiraPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </p>
 
